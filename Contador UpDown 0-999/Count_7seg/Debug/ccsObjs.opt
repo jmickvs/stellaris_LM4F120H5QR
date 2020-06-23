@@ -1,0 +1,1 @@
+"./contador_0-999.obj" "./lm4f120h5qr_startup_ccs.obj" "../lm4f120h5qr.cmd" -l"C:\ti\ccsv6\tools\compiler\arm_5.1.8\lib\libc.a" -l"C:\StellarisWare\driverlib\ccs-cm4f\Debug\driverlib-cm4f.lib" 
